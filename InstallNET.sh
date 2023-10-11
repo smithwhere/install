@@ -2,7 +2,7 @@
 
 ## License: GPL
 ## It can reinstall Debian, Ubuntu, CentOS system with network.
-## Default root password: MoeClub.org
+## Default root password: Dh@860112
 ## Blog: https://moeclub.org
 ## Written By MoeClub.org
 
@@ -19,7 +19,7 @@ export IncDisk='default'
 export interface=''
 export interfaceSelect=''
 export Relese=''
-export sshPORT='22'
+export sshPORT='7866'
 export ddMode='0'
 export setNet='0'
 export setRDP='0'
